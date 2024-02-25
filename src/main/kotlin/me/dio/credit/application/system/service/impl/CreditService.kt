@@ -44,7 +44,7 @@ class CreditService(
   }
 
   private fun validateNumberOfInstallments( numberOfInstallments: Int ): Boolean {
-    return if( numberOfInstallments in 0..48 ) true
+    return if( numberOfInstallments in 1..48 ) true
     else throw BusinessException( "Invalid Number of Installments" )
   }
 }
