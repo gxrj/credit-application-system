@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/Spring%20Boot-v3.0.3-brightgreen.svg" />
     </a>
     <a alt="Gradle">
-        <img src="https://img.shields.io/badge/Gradle-v7.6-lightgreen.svg" />
+        <img src="https://img.shields.io/badge/Gradle-v8.5-lightgreen.svg" />
     </a>
     <a alt="H2 ">
         <img src="https://img.shields.io/badge/H2-v2.1.214-darkblue.svg" />
