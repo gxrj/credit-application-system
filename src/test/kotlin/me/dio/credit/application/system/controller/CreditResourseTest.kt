@@ -43,11 +43,11 @@ class CreditResourseTest {
 
     @Test
     fun `should not save a credit with dayFirstInstallment longer than 3 months then return 400 status`(): Unit =
-        TODO( "return 400 status if dayFirstInstallment longer than 3 months" )
+        TODO( "return 400 status given the dayFirstInstallment longer than 3 months" )
 
     @Test
     fun `should not save a credit with invalid numberOfInstallments then return 400 status`(): Unit =
-        TODO( "then return 400 status if numberOfInstallments is invalid" )
+        TODO( "then return 400 status given the numberOfInstallments is invalid" )
 
     @Test
     fun `should find a credit request by a credit code then return 200 status`(): Unit =
@@ -55,7 +55,7 @@ class CreditResourseTest {
 
     @Test
     fun `should not find credit with a invalid creditCode then return 400 status`(): Unit =
-        TODO( "return 400 status if creditCode is invalid" )
+        TODO( "return 400 status given the creditCode is invalid" )
 
     @Test
     fun `should not find credit with a customerId mismatching the provided one then return 409 status`(): Unit =
