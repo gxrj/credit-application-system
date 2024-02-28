@@ -1,6 +1,6 @@
 # Desafio:
 
-- [ ] Implementar testes em credit e outras classes
+- [x] Implementar testes em credit e outras classes
 
 - [x] Implemente as regras de negócio a seguir para a solicitação de empréstimo:
   * [x] o máximo de parcelas permitido será 48 
